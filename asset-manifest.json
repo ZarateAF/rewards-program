@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rewards-program/static/css/main.e6c13ad2.css",
+    "main.js": "/rewards-program/static/js/main.7d278136.js",
+    "index.html": "/rewards-program/index.html",
+    "main.e6c13ad2.css.map": "/rewards-program/static/css/main.e6c13ad2.css.map",
+    "main.7d278136.js.map": "/rewards-program/static/js/main.7d278136.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7d278136.js"
+  ]
+}
